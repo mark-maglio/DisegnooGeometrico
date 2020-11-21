@@ -12,4 +12,5 @@ namespace DisegnooGeometrico
             this.z = z;
         }
     }
+
 }
